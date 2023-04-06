@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DFA-Minimizer-CRA/static/css/main.496cbf87.chunk.css",
+    "main.js": "/DFA-Minimizer-CRA/static/js/main.40fb71ef.chunk.js",
+    "main.js.map": "/DFA-Minimizer-CRA/static/js/main.40fb71ef.chunk.js.map",
+    "runtime-main.js": "/DFA-Minimizer-CRA/static/js/runtime-main.8dda5c38.js",
+    "runtime-main.js.map": "/DFA-Minimizer-CRA/static/js/runtime-main.8dda5c38.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/DFA-Minimizer-CRA/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.252bfde4.chunk.js": "/DFA-Minimizer-CRA/static/js/2.252bfde4.chunk.js",
+    "static/js/2.252bfde4.chunk.js.map": "/DFA-Minimizer-CRA/static/js/2.252bfde4.chunk.js.map",
+    "index.html": "/DFA-Minimizer-CRA/index.html",
+    "precache-manifest.e4a9d24a0d56b2651e68d5fb1316aaca.js": "/DFA-Minimizer-CRA/precache-manifest.e4a9d24a0d56b2651e68d5fb1316aaca.js",
+    "service-worker.js": "/DFA-Minimizer-CRA/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/DFA-Minimizer-CRA/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.496cbf87.chunk.css.map": "/DFA-Minimizer-CRA/static/css/main.496cbf87.chunk.css.map",
+    "static/js/2.252bfde4.chunk.js.LICENSE.txt": "/DFA-Minimizer-CRA/static/js/2.252bfde4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dda5c38.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.252bfde4.chunk.js",
+    "static/css/main.496cbf87.chunk.css",
+    "static/js/main.40fb71ef.chunk.js"
+  ]
+}
